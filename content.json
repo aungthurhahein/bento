@@ -1018,7 +1018,7 @@
     "name": "coldfusion",
     "description": "A server application for java",
     "home": "http://www.adobe.com/products/coldfusion-family.html",
-    "$then": [],
+    "$then": ["ColdBox","CFWheels"],
     "links":[
       {
         "name":"Coldfusion Tutorials",
@@ -1035,6 +1035,30 @@
       {
         "name": "Ben Nadel CF Blog entries",
         "url": "http://www.bennadel.com/blog/tags/1-ColdFusion-blog-entries.htm"
+      }
+    ]
+  },
+  {
+    "name": "ColdBox",
+    "description": "An event-driven, convention based ColdFusion Development Platform",
+    "home": "http://www.coldbox.org/",
+    "$then": [],
+    "links":[
+      {
+        "name": "ColdBox Overview",
+        "url": "http://wiki.coldbox.org/wiki/ColdBox.cfm"
+      }
+    ]
+  },
+  {
+    "name": "CFWheels",
+    "description": "Coldfusion in Wheels",
+    "home": "http://cfwheels.org/",
+    "$then": [],
+    "links":[
+      {
+        "name":"Getting Started with CFWheels",
+        "url": "http://cfwheels.org/docs/1-1/chapter/frameworks-and-wheels"
       }
     ]
   },
